@@ -1,0 +1,25 @@
+body{
+    
+    justify-items: center;
+    background-image: linear-gradient(to right, blue , white);
+.container1{
+    font-size: 25px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow:8px solid rgb(153, 0, 255);
+    margin: 110px;
+    padding: 110px;
+    width: 300px;
+    height: 410px;
+    justify-items: center;
+    justify-items: center;
+    
+
+}
+h2{
+font-size: larger;
+font-style: oblique;
+font-size-adjust: unset;
+}
+}
