@@ -24,7 +24,7 @@ form.addEventListener('submit', async function (e) {
       console.log(timein);
    
     try{
-   const final=await fetch('http://localhost:3000/submit',{
+   const final=await fetch('https://vercel-frontend-1.onrender.com/submit',{
       method:'POST',
       headers:{
          'Content-Type':'application/json',
